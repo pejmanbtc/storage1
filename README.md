@@ -109,5 +109,3 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 });
 ```
-
-Feel free to use this translated version of the document for your reference.
